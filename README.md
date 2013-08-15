@@ -2,7 +2,7 @@
 
 A color scheme inspired by the art of [Charley Harper][1] (1922-2007)
 
-![Screenshot][2]
+![Animated Screenshot][2]
 
 ## Installation
 
@@ -36,7 +36,7 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][6]
 
 [1]: http://en.wikipedia.org/wiki/Charley_Harper
-[2]: https://raw.github.com/idleberg/Harper.tmTheme/master/preview/screenshot.png
+[2]: https://raw.github.com/idleberg/Harper.tmTheme/master/preview/screenshot.gif
 [3]: http://wbond.net/sublime_packages/package_control/
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
