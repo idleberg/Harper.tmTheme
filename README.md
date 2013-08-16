@@ -8,7 +8,7 @@ A color scheme inspired by the art of [Charley Harper][1] (1922-2007)
 
 ### TextMate
 
-1. Download a `.tmTheme` file of choice
+1. Download the `.tmTheme` file
 2. Copy the file to `~/Library/Application Support/TextMate/Themes`
 
 ### Sublime Text
