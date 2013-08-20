@@ -19,7 +19,7 @@
 	<key>comment</key>
 	<string>https://github.com/idleberg/Harper.tmTheme</string>
 	<key>semanticClass</key>
-	<string>theme.harper</string>
+	<string>theme.dark.harper</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>gutterSettings</key>
