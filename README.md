@@ -41,3 +41,6 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 [6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper.tmTheme/&title=Harper&20Color%20Scheme&category=software
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/harper.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
