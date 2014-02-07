@@ -33,14 +33,13 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 
 ## Donate
 
-[<img src="https://raw.github.com/balupton/flattr-buttons/master/badge-89x18.gif" />][6]
+You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper.tmTheme) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
 
 [1]: http://en.wikipedia.org/wiki/Charley_Harper
 [2]: https://raw.github.com/idleberg/Harper.tmTheme/master/preview/screenshot.gif
 [3]: http://wbond.net/sublime_packages/package_control/
 [4]: http://wbond.net/sublime_packages/package_control/settings/
 [5]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[6]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Harper.tmTheme/&title=Harper&20Color%20Scheme&category=software
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/harper.tmtheme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
