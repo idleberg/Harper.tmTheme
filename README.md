@@ -16,7 +16,7 @@ A color scheme inspired by the art of [Charley Harper](http://en.wikipedia.org/w
 #### Package Control
 
 1. Make sure you already have [Package Control](http://wbond.net/sublime_packages/package_control/) installed
-2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
+2. Choose *Install Package* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
 3. Select *Harper Color Scheme* and press `Enter`
 
 With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/) enabled, Package Control will keep all installed packages up-to-date!
@@ -24,8 +24,8 @@ With [auto_upgrade](http://wbond.net/sublime_packages/package_control/settings/)
 #### Manual Installation
 
 1. Download the `.tmTheme` file
-2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows and Linux, `⇧⌘P` on OS X)
-3. Copy the `.tmTheme` file to `Packages\User`
+2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` on Windows/Linux, `⇧⌘P` on OS X)
+3. Copy the `.tmTheme` file to `Packages`
 
 ## License
 
