@@ -1,4 +1,4 @@
-# Harper for TextMate & Sublime Text
+# Harper for TextMate & Sublime Text [![Build Status](https://secure.travis-ci.org/idleberg/Harper.tmTheme.png)](http://travis-ci.org/idleberg/Harper.tmTheme)
 
 A color scheme inspired by the art of [Charley Harper](http://en.wikipedia.org/wiki/Charley_Harper) (1922-2007)
 
